@@ -1,0 +1,9 @@
+# Velocity Player Tracker Configuration
+# The IP address of the server you want to track
+target_ip: "spymc.xyz"
+
+# The port for the internal web page
+web_port: 5000
+
+# Update interval in seconds (minimum 1)
+update_interval: 1

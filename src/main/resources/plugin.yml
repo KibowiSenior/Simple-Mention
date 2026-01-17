@@ -1,0 +1,11 @@
+name: SimpleMention
+version: 1.0.0
+main: com.simplemention.SimpleMention
+api-version: 1.21
+commands:
+  togglemention:
+    description: Toggle mention sound notification.
+  mention:
+    description: Block or unblock players from triggering your mention sound.
+    usage: /mention <block|unblock> <player>
+folia-supported: true
